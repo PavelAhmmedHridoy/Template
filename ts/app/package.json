@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "my-next-app-1",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -24,7 +24,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "dotenv": "^17.2.3",
-    "drizzle-auto": "^1.1.22",
+    "drizzle-auto": "^1.2.0",
     "drizzle-orm": "^0.44.7",
     "lucide-react": "^0.555.0",
     "next": "^16.0.1",
